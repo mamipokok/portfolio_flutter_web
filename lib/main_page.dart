@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: AppColor.bgDark,
         useMaterial3: true,
       ),
-      home: LoadingPage(),
+      home: FloatingBar(),
     );
   }
 }

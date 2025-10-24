@@ -95,7 +95,7 @@ class _FloatingBarState extends State<FloatingBar> {
                       tabs: [
                         CupertinoFloatingTab(
                           child: Text(
-                            'dashboard',
+                            'home',
                             style: TextStyle(
                               color: _selectedIndex == 0
                                   ? AppColor.textPrimary
